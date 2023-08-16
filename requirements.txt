@@ -3,3 +3,11 @@ tiktoken
 matplotlib
 seaborn
 tqdm
+beautifulsoup4
+pinecone-client
+numpy
+python-dotenv
+openai
+langchain
+pypdf
+mysql-connector-python
